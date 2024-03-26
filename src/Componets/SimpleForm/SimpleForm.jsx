@@ -18,5 +18,5 @@ const SimpleForm = () => {
         </div>
     );
 };
-
+ 
 export default SimpleForm;
