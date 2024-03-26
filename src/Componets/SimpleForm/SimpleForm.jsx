@@ -13,6 +13,8 @@ const SimpleForm = () => {
             <input type="text" name="name" /> <br />
             <input type="email" name="email" /> <br />
             <input type="submit" name="submit" />
+            <input type="submit" name="submit" />
+            <input type="submit" name="submit" />
         </form>
 
         </div>
@@ -20,3 +22,4 @@ const SimpleForm = () => {
 };
  
 export default SimpleForm;
+
